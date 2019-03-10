@@ -11,8 +11,6 @@ Allo.ua Scraper Hints
 
 ---------------
 
----------------
-
 ============
 Installation
 ============
@@ -31,6 +29,8 @@ Then run install packages using pip:
 
 -----------------
 
+
+
 =====
 Create database
 =====
@@ -44,6 +44,8 @@ You need run script for this and input name db (only name, don't use '.sqlite3')
 
 -----------------
 
+
+
 =====
 Usage
 =====
@@ -56,6 +58,8 @@ Next you need run next script using this command and input name db:
    $ python scripts.py
 
 -----------------
+
+
 
 
 =====
